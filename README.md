@@ -72,7 +72,7 @@ I am a **Frontend Developer** with **5+ years of experience** building scalable,
 ---
 
 ## 🌐 Live Demo
-Check out the portfolio live at: [My Portfolio](https://dev-portfolio-template.netlify.app/)  
+Check out the portfolio live at: [My Portfolio](https://malaa5260.github.io/mohamed-alaa-portfolio)  
 
 ---
 
