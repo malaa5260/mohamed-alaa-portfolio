@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/mohamed-alaa-portfolio/static/css/main.d61910fe.chunk.css",
-    "main.js": "/mohamed-alaa-portfolio/static/js/main.02e6f1fb.chunk.js",
-    "main.js.map": "/mohamed-alaa-portfolio/static/js/main.02e6f1fb.chunk.js.map",
+    "main.js": "/mohamed-alaa-portfolio/static/js/main.0aa67389.chunk.js",
+    "main.js.map": "/mohamed-alaa-portfolio/static/js/main.0aa67389.chunk.js.map",
     "runtime-main.js": "/mohamed-alaa-portfolio/static/js/runtime-main.427dba23.js",
     "runtime-main.js.map": "/mohamed-alaa-portfolio/static/js/runtime-main.427dba23.js.map",
     "static/css/2.509277d7.chunk.css": "/mohamed-alaa-portfolio/static/css/2.509277d7.chunk.css",
-    "static/js/2.d6958aea.chunk.js": "/mohamed-alaa-portfolio/static/js/2.d6958aea.chunk.js",
-    "static/js/2.d6958aea.chunk.js.map": "/mohamed-alaa-portfolio/static/js/2.d6958aea.chunk.js.map",
+    "static/js/2.918aca83.chunk.js": "/mohamed-alaa-portfolio/static/js/2.918aca83.chunk.js",
+    "static/js/2.918aca83.chunk.js.map": "/mohamed-alaa-portfolio/static/js/2.918aca83.chunk.js.map",
     "static/js/3.a044e014.chunk.js": "/mohamed-alaa-portfolio/static/js/3.a044e014.chunk.js",
     "static/js/3.a044e014.chunk.js.map": "/mohamed-alaa-portfolio/static/js/3.a044e014.chunk.js.map",
     "index.html": "/mohamed-alaa-portfolio/index.html",
     "static/css/2.509277d7.chunk.css.map": "/mohamed-alaa-portfolio/static/css/2.509277d7.chunk.css.map",
     "static/css/main.d61910fe.chunk.css.map": "/mohamed-alaa-portfolio/static/css/main.d61910fe.chunk.css.map",
-    "static/js/2.d6958aea.chunk.js.LICENSE.txt": "/mohamed-alaa-portfolio/static/js/2.d6958aea.chunk.js.LICENSE.txt",
+    "static/js/2.918aca83.chunk.js.LICENSE.txt": "/mohamed-alaa-portfolio/static/js/2.918aca83.chunk.js.LICENSE.txt",
     "static/media/index.css": "/mohamed-alaa-portfolio/static/media/BestermindRegular.e58a1922.ttf",
     "static/media/adobe-xd.fa7a22d2.svg": "/mohamed-alaa-portfolio/static/media/adobe-xd.fa7a22d2.svg",
     "static/media/adobeaudition.dd56aeda.svg": "/mohamed-alaa-portfolio/static/media/adobeaudition.dd56aeda.svg",
@@ -143,8 +143,8 @@
   "entrypoints": [
     "static/js/runtime-main.427dba23.js",
     "static/css/2.509277d7.chunk.css",
-    "static/js/2.d6958aea.chunk.js",
+    "static/js/2.918aca83.chunk.js",
     "static/css/main.d61910fe.chunk.css",
-    "static/js/main.02e6f1fb.chunk.js"
+    "static/js/main.0aa67389.chunk.js"
   ]
 }
