@@ -1,7 +1,7 @@
 # Mohamed Alaa Osman - Developer Portfolio
 
 <p align="center">
-<img src="" alt="Profile" width="250px"/>
+<img src="https://malaa5260.github.io/mohamed-alaa-portfolio/static/media/profile.f1ae55f4.jpeg" alt="Profile" width="250px"/>
 </p>
 
 ## Hi there 👋, I'm Mohamed Alaa Osman
@@ -72,7 +72,7 @@ I am a **Frontend Developer** with **5+ years of experience** building scalable,
 ---
 
 ## 🌐 Live Demo
-Check out the portfolio live at: [My Portfolio](https://malaa5260.github.io/mohamed-alaa-portfolio)  
+Check out the portfolio live at: [My Portfolio](https://malaa5260.github.io/)  
 
 ---
 
