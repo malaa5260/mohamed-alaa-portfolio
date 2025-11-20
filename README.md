@@ -1,7 +1,7 @@
 # Mohamed Alaa Osman - Developer Portfolio
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/malaa5260/my-react-app/main/public/assets/profileImg.png" alt="Profile" width="250px"/>
+<img src="" alt="Profile" width="250px"/>
 </p>
 
 ## Hi there 👋, I'm Mohamed Alaa Osman
