@@ -5,13 +5,15 @@
 </p>
 
 ## Hi there 👋, I'm Mohamed Alaa Osman
-I am a **Frontend Developer** with **5+ years of experience** building scalable, responsive, and user-centric web applications. I specialize in **Angular**, **microfrontend architecture**, and **performance optimization**, with a strong focus on creating high-performing, maintainable, and dynamic UI solutions.
+I am a **Frontend Engineer** with **6+ years of experience** building scalable, high-performance web applications using Angular, React, TypeScript, and modern JavaScript (ES6+). Experienced in designing modular and maintainable frontend architectures, including Microfrontend Architecture and Nx Monorepos, for large-scale enterprise and multi-tenant SaaS applications.
 
----
+Proficient in developing responsive, reusable, and accessible user interfaces using Angular and React, with strong expertise in RxJS, Angular Signals, NgRx/Redux Toolkit, Hooks, Context API, Lazy Loading, Code Splitting, and RESTful API integration. Strong focus on performance optimization, scalable component design, efficient state management, and maintainable code.
+
+Experienced in collaborating with cross-functional teams to deliver user-centric solutions aligned with business requirements, while maintaining high standards of code quality, reliability, scalability, and maintainability across complex frontend systems.
 
 ## 🚀 About Me
 - 🏢 Based in **Nasr City, Cairo, Egypt**
-- 💻 Experienced with **Angular 2+**, **TypeScript**, **RxJS**, **Tailwind CSS**, **Material UI**
+- 💻 Experienced with **Angular 2+**, **React**, **TypeScript**, **RxJS**, **Tailwind CSS**, **Material UI**
 - 🌐 Expertise in **Microfrontend Architecture**, **API Integration**, **Dynamic SVG Visualizations**
 - ⚡ Passionate about **clean code**, **UX/UI design**, and **scalable applications**
 - 🎯 Open to **freelance & remote opportunities**
